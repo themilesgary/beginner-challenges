@@ -1,0 +1,5 @@
+function kilosToMiles(kilos) {
+    return (kilos / 1.609344);
+}
+
+console.log(kilosToMiles(5));
